@@ -1,4 +1,4 @@
- # Text Based Number guess game
+# Text Based Number guess game
 import random
 import sys
 
