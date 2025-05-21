@@ -1,0 +1,1 @@
+# Text based Higher Lower game where the ai tells you to guess either higher or lower. Similar to numberGuess.py
